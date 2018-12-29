@@ -92,28 +92,20 @@ def get_index(filename, k_mer):
         UT_pos.append(UT_starts.get(start))
 
     uids = [0] * len(ref_sequence)
-    print(len(uids))
-    print(len(UT_kmer))
     for i in range(len(UT_pos)):
         for j in range(UT_pos[i][0], UT_pos[i][0] + UT_seq[i][0] - k_mer + 1, 1):
             uids[j] = i + 1
-    # i = 0
 
     for mer in UT_kmer.keys():
         pos = UT_kmer.get(mer)
         uid = uids[pos]
-        # while UT_starts.get(pos) is None:
-        #     pos -= 1
         offset = pos - UT_pos[uid - 1][0] + 1
-        # uid = first_starts.index(pos) + 1
         UT_kmer[mer] = [uid, offset]
-        # if i % 1000 == 0:
-        #     print(i / 1000)
-        # i += 1
 
     print(UT_kmer)
     print(UT_seq)
     print(UT_pos)
+    return UT_kmer, UT_seq, UT_pos
 
 
 if __name__ == '__main__':

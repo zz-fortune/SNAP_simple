@@ -1,3 +1,3 @@
 if __name__ == '__main__':
-    a=[3]*20
+    a = [3] * 20
     print(len(a))
