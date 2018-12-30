@@ -3,9 +3,16 @@ import numpy
 
 
 def test(m=6):
-    print(m)
+    a = 'q'
+    b = 'e'
+    c = 'e'
+    return a + b + c
 
 
 if __name__ == '__main__':
-    test(8)
-    numpy.zeros((2, 4))
+    a = 1
+    if a == 1:
+        print('1')
+    # asd
+    else:
+        print('2')
