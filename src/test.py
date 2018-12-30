@@ -1,3 +1,11 @@
+import math
+import numpy
+
+
+def test(m=6):
+    print(m)
+
+
 if __name__ == '__main__':
-    a = [3] * 20
-    print(len(a))
+    test(8)
+    numpy.zeros((2, 4))

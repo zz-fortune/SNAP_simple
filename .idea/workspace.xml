@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31b497d4-722b-4a31-816d-727ecc3169c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/alignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/alignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/alignment.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/build_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/build_index.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.py" afterDir="false" />
     </list>
@@ -17,59 +18,94 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="fna" value="2" />
+          <entry key="fna" value="4" />
+          <entry key="fq1" value="1" />
           <entry key="py" value="3" />
-          <entry key="txt" value="2" />
+          <entry key="read" value="1" />
+          <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="10" />
           <entry key="Python" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2550" />
-          <entry key="txt" value="58" />
+          <entry key="py" value="6127" />
+          <entry key="read" value="9" />
+          <entry key="txt" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="58" />
-          <entry key="Python" value="2550" />
+          <entry key="PLAIN_TEXT" value="75" />
+          <entry key="Python" value="6127" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/build_index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="64" column="86" selection-start-line="64" selection-start-column="86" selection-end-line="64" selection-end-column="86" />
+            <state relative-caret-position="1115">
+              <caret line="119" column="13" selection-start-line="119" selection-start-column="8" selection-end-line="119" selection-end-column="13" />
+              <folding>
+                <element signature="e#48#59#0" expanded="true" />
+                <marker date="1546141050425" expanded="true" signature="3888:4202" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/alignment.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="179" column="11" selection-start-line="179" selection-start-column="11" selection-end-line="179" selection-end-column="11" />
+              <folding>
+                <element signature="e#45#56#0" expanded="true" />
+                <marker date="1546144140770" expanded="true" signature="168:2661" ph="..." />
+                <marker date="1546144140770" expanded="true" signature="2432:2437" ph="..." />
+                <marker date="1546144140770" expanded="true" signature="2432:2661" ph="..." />
+                <marker date="1546144140770" expanded="true" signature="2883:2888" ph="..." />
+                <marker date="1546144140770" expanded="true" signature="4705:4717" ph="..." />
+                <marker date="1546144140770" expanded="true" signature="4768:5976" ph="..." />
+                <marker date="1546144140770" expanded="true" signature="5974:5976" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/NC_008253.fna">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="47281" column="70" selection-start-line="47281" selection-start-column="4" selection-end-line="47281" selection-end-column="70" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <marker date="1546137381250" expanded="true" signature="41:57" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,6 +119,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CTTCCGGCACGCGCA</find>
+      <find>print</find>
+      <find>TCTTCCGGCACGCGCAGCAAATACTGGCGCAGTTCATCACGGTAGGCATCGGTCGCCGTCGGCTGGTAGA</find>
+      <find>TCTTCCGGCACGCGCAGCAAATACTGGCGCAGTTCATC</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -95,9 +139,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/data/test.txt" />
-        <option value="$PROJECT_DIR$/src/alignment.py" />
         <option value="$PROJECT_DIR$/src/test.py" />
+        <option value="$PROJECT_DIR$/data/read" />
         <option value="$PROJECT_DIR$/src/build_index.py" />
+        <option value="$PROJECT_DIR$/data/read.txt" />
+        <option value="$PROJECT_DIR$/data/NC_008253.fna" />
+        <option value="$PROJECT_DIR$/src/alignment.py" />
       </list>
     </option>
   </component>
@@ -153,7 +200,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.build_index">
+  <component name="RunManager" selected="Python.alignment">
+    <configuration name="alignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lab2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/alignment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="build_index" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lab2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,9 +267,11 @@
     <list>
       <item itemvalue="Python.build_index" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.alignment" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.alignment" />
         <item itemvalue="Python.build_index" />
         <item itemvalue="Python.test" />
       </list>
@@ -231,20 +301,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.24950495" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498" visible="true" weight="0.23828383" />
       <window_info id="Structure" order="1" sideWeight="0.502" side_tool="true" weight="0.24950495" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49966997" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49966997" weight="0.28820375" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.2935657" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50033003" side_tool="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -259,6 +330,24 @@
     <option name="LAST_COMMIT_MESSAGE" value="a test" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1546137381250" expanded="true" signature="41:57" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/read">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -266,25 +355,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.py">
+    <entry file="file://$PROJECT_DIR$/data/read.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="19">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/alignment.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/NC_008253.fna">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27213" />
+    <entry file="file://$PROJECT_DIR$/data/Ecoli_4x.fq1">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="19">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="16" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/build_index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="64" column="86" selection-start-line="64" selection-start-column="86" selection-end-line="64" selection-end-column="86" />
+        <state relative-caret-position="1115">
+          <caret line="119" column="13" selection-start-line="119" selection-start-column="8" selection-end-line="119" selection-end-column="13" />
+          <folding>
+            <element signature="e#48#59#0" expanded="true" />
+            <marker date="1546141050425" expanded="true" signature="3888:4202" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/alignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="179" column="11" selection-start-line="179" selection-start-column="11" selection-end-line="179" selection-end-column="11" />
+          <folding>
+            <element signature="e#45#56#0" expanded="true" />
+            <marker date="1546144140770" expanded="true" signature="168:2661" ph="..." />
+            <marker date="1546144140770" expanded="true" signature="2432:2437" ph="..." />
+            <marker date="1546144140770" expanded="true" signature="2432:2661" ph="..." />
+            <marker date="1546144140770" expanded="true" signature="2883:2888" ph="..." />
+            <marker date="1546144140770" expanded="true" signature="4705:4717" ph="..." />
+            <marker date="1546144140770" expanded="true" signature="4768:5976" ph="..." />
+            <marker date="1546144140770" expanded="true" signature="5974:5976" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/NC_008253.fna">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="47281" column="70" selection-start-line="47281" selection-start-column="4" selection-end-line="47281" selection-end-column="70" />
         </state>
       </provider>
     </entry>
